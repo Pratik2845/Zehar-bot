@@ -1,9 +1,9 @@
 {
-    "name": "simple-bot",
+    "name": "Zehar-bot",
     "version": "1.0.0",
     "description": "This is a simple test and experiment bot",
     "main": "Zehar-bot.js",
-    "author": "TheNaman047",
+    "author": "Pratik2845",
     "scripts": {
         "start": "node bot.js"
     },
