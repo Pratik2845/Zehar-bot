@@ -6,7 +6,7 @@
     	"author": "Pratik2845",
     "scripts": {	    
         "start": "node bot.js"	        
-    },	    },
+    },	    
     "dependencies": {	    
 	"discord.js" : "11.2.1"		
 	}		
